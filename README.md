@@ -37,7 +37,7 @@
 
 [ ] 6. ``Javascript`` 개발관련 기초지식 정리
   * ``Javascript`` 전반에 대한 기초지식을 정리하기 위해 별도의 정리문서를 작성 하였습니다.
-  * [🐫 ``Javascript 기초지식 정리`` 페이지 이동](#)
+  * [🐫 ``Javascript 기초지식 정리`` 페이지 이동](https://github.com/Chocobe/-Plan-Study-FrontEnd-2021/blob/master/Javascript%20%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9D%20%EC%A0%95%EB%A6%AC.md)
 
 
 
