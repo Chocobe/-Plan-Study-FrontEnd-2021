@@ -7,27 +7,37 @@
 [x] 1. ``Javascript 핵심 개념 알아보기 - JS Flow`` (인프런)  
   * Javascript 의 기본기 다지기가 목표 입니다.
   * (2021-04-18) 스터디 정리 완료
-  * [Javascript 핵심 개념 알아보기](https://github.com/Chocobe/-Study-Javascript-ES5-2021)
+  * [🐫 ``Javascript 핵심 개념 알아보기`` 저장소 이동](https://github.com/Chocobe/-Study-Javascript-ES5-2021)
 
 <br/>
 
-[ ] 2. ``자바스크립트 알고리즘 문제풀이(코딩테스트 대비)`` (인프런)
+[x] 2. ``자바스크립트 알고리즘 문제풀이(코딩테스트 대비)`` (인프런)
   * 알고리즘 및 이직준비에 적합하다고 생각 합니다.
+  * (2021-05-08) 스터디 정리 완료
+  * [🐫 ``Javascript를 사용한 Algorithm`` 저장소 이동](https://github.com/Chocobe/-Study-Algorithm-2021)
 
 <br/>
 
-[ ] 3. ``Vue.js + TypeScript 완벽 가이드`` (인프런)
+[x] 3. ``Vue.js + TypeScript 완벽 가이드`` (인프런)
   * 현재 사용중인 ``VueJS`` 와 ``Typescript`` 의 더 좋은 구현방법을 알기 위한 선택 입니다.
+  * (2021-06-03) 스터디 정리 완료
+  * [🐫 ``Vue와 Typescript`` 저장소 이동](https://github.com/Chocobe/-Study-Vue-Typescript)
 
 <br/>
 
-[ ] 4. ``자바스크립트 패턴과 테스트`` (길벗 출반사)
+[ ] 4. ``리팩토링 자바스크립트`` (길벗 출반사)
+  * 자바스크립트를 지금보다 구조적이고 깔끔하게 작성할 수 있다는 생각에 선택 하였습니다.
+
+<br/>
+
+[ ] 5. ``자바스크립트 패턴과 테스트`` (길벗 출반사)
   * 디자인 패턴과 테스트유닛 활용을 배우기 위함 입니다.
 
 <br/>
 
-[ ] 5. ``리팩토링 자바스크립트`` (길벗 출반사)
-  * 자바스크립트를 지금보다 구조적이고 깔끔하게 작성할 수 있다는 생각에 선택 하였습니다.
+[ ] 6. ``Javascript`` 개발관련 기초지식 정리
+  * ``Javascript`` 전반에 대한 기초지식을 정리하기 위해 별도의 정리문서를 작성 하였습니다.
+  * [🐫 ``Javascript 기초지식 정리`` 페이지 이동](#)
 
 
 
